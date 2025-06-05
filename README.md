@@ -4,7 +4,10 @@
   <em>Bilgisayar Mühendisliği öğrencisi @ İstanbul Üniversitesi-Cerrahpaşa</em>
 </p>
 
-<img src="https://media.tenor.com/E6gGjzqvQEEAAAAC/developer.gif" width="400"/>
+<p align="center">
+  <img src="https://media.tenor.com/E6gGjzqvQEEAAAAC/developer.gif" width="400"/>
+</p>
+
 
 ---
 
