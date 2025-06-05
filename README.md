@@ -1,29 +1,27 @@
-<h1 align="center">Merhaba, ben Yusuf Eren Aykurt 👋</h1>
+<h1 align="center">Hi, I'm Yusuf Eren Aykurt 👋</h1>
 
 <p align="center">
-  <em>Bilgisayar Mühendisliği öğrencisi @ İstanbul Üniversitesi-Cerrahpaşa</em>
+  <em>Computer Engineering Student @ Istanbul University - Cerrahpasa</em>
 </p>
 
 <p align="center">
   <img src="https://c.tenor.com/IieZUsqoYCwAAAAd/tenor.gif" width="400"/>
 </p>
 
+---
 
+## 🚀 About Me
+
+- 🎓 I'm a Computer Engineering student at Istanbul University - Cerrahpasa.  
+- 💻 I work on frontend, backend, and algorithms.  
+- 📚 I'm improving myself in Java, React, C++, MySQL, and web technologies.  
+- 📈 Currently learning **React.js** and **Node.js**.  
 
 ---
 
-## 🚀 Hakkımda
+## 🛠️ Technologies I Use
 
-- 🎓 İstanbul Üniversitesi-Cerrahpaşa Bilgisayar Mühendisliği öğrencisiyim.  
-- 💻 Frontend, backend ve algoritmalar üzerine çalışıyorum.  
-- 📚 Java, React, C++, MySQL ve web teknolojilerinde kendimi geliştiriyorum.  
-- 📈 Şu anda aktif olarak **React.js** ve **Node.js** öğreniyorum.  
-
----
-
-## 🛠️ Kullandığım Teknolojiler
-
-### 💻 Yazılım Dilleri
+### 💻 Programming Languages
 
 <p align="left">
   <a href="https://www.java.com/" target="_blank" title="Java">
@@ -39,14 +37,13 @@
   </a>
   &nbsp;
   <a href="https://nodejs.org/" target="_blank" title="Node.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-</a>
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-### 🌐 Web & Araçlar
+### 🌐 Web & Tools
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
@@ -72,7 +69,7 @@
 
 ---
 
-### 🧰 Diğer Araçlar
+### 🧰 Other Tools
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" title="Git">
@@ -90,7 +87,7 @@
 
 ---
 
-## 📈 GitHub İstatistikleri
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yusuferenaykurtt&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -101,16 +98,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yusuferenaykurtt&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme%20Say%C4%B1s%C4%B1&color=blue&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yusuferenaykurtt&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 📫 Bana Ulaş
+## 📫 Contact Me
 
-- 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/yusuf-eren-aykurt-693b4630b)
+- 🔗 [My LinkedIn Profile](https://www.linkedin.com/in/yusuf-eren-aykurt-693b4630b)
 - 📧 yusuferenaykurt38@gmail.com
-
-
-
-
