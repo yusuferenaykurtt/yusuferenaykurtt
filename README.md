@@ -83,6 +83,9 @@
   <a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
+<a href="https://www.eclipse.org/" target="_blank" title="Eclipse">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
+  </a>
 </p>
 
 ---
