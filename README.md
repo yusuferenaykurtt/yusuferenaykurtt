@@ -86,6 +86,9 @@
 <a href="https://www.eclipse.org/" target="_blank" title="Eclipse">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
   </a>
+<a href="https://visualstudio.microsoft.com/" target="_blank" title="Visual Studio">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+  </a>
 </p>
 
 ---
