@@ -13,31 +13,31 @@
 ## 🚀 About Me
 
 - 🎓 I'm a Computer Engineering student at Istanbul University - Cerrahpasa.  
-- 💻 I work on frontend, backend, and algorithms.  
-- 📚 I'm improving myself in Java, React, C++, MySQL, and web technologies.  
-- 📈 Currently learning **React.js** and **Node.js**.  
+- 💻 I develop full-stack applications using **C# (.NET, MVC)** and **SQL Server**.  
+- 📚 I'm improving myself in **React.js** and **REST API** development.  
+- ⚙️ I focus on clean code, layered architecture, and database-driven systems.  
 
 ---
 
 ## 🛠️ Technologies I Use
 
-### 💻 Programming Languages
+### 💻 Programming Languages & Frameworks
 
 <p align="left">
-  <a href="https://www.java.com/" target="_blank" title="Java">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <a href="https://dotnet.microsoft.com/" target="_blank" title=".NET">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://isocpp.org/" target="_blank" title="C++">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <a href="https://learn.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-8.0" target="_blank" title="ASP.NET MVC">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET MVC" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" title="SQL Server">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://nodejs.org/" target="_blank" title="Node.js">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <a href="https://react.dev/" target="_blank" title="React">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
 </p>
 
@@ -56,10 +56,6 @@
   &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://react.dev/" target="_blank" title="React">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap 5">
@@ -83,10 +79,8 @@
   <a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
-<a href="https://www.eclipse.org/" target="_blank" title="Eclipse">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
-  </a>
-<a href="https://visualstudio.microsoft.com/" target="_blank" title="Visual Studio">
+  &nbsp;
+  <a href="https://visualstudio.microsoft.com/" target="_blank" title="Visual Studio">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
   </a>
 </p>
@@ -94,10 +88,10 @@
 ---
 
 ## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuferenaykurtt&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yusuferenaykurtt&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
