@@ -24,6 +24,10 @@
 ### 💻 Programming Languages & Frameworks
 
 <p align="left">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+</a>
+
   <a href="https://dotnet.microsoft.com/" target="_blank" title=".NET">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
   </a>
